@@ -7810,3 +7810,11 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 .text-color-grey{
 	color: #c1c1c1;
 }
+
+.bg-pin{
+	background-color: #fef9f3;
+}
+
+.fs-40 {
+	font-size: 40px !important;
+}
